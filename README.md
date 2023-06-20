@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **XD, GO**
+- 🌱 I’m currently learning **Wordpress, JS**
 
 - 💬 Ask me about **Designing**
 
